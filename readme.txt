@@ -1,0 +1,1 @@
+scrapy 框架采集cnnvd网站漏洞同时可以直接保存mysql数据库中
